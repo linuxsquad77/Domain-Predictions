@@ -15,7 +15,7 @@ Termux X11 Panel için random unique username oluşturucu. 30 farklı platform i
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/KULLANICI_ADIN/linuxsquad-username-generator.git
+git clone https://github.com/linuxsquad77/Domain-Predictions.git
 cd linuxsquad-username-generator
 chmod +x linuxsquad_username_generator.sh
 bash linuxsquad_username_generator.sh
