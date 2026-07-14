@@ -1,6 +1,6 @@
-# LINUXSQUAD Username Generator v6.2
+# LINUXSQUAD Username Generator v1.2
 
-Termux X11 Panel için random unique username oluşturucu. 30 farklı platform için 3-15 karakter arası, 100-5000 adet benzersiz kullanıcı adı üretir.
+ Random unique username generator for panel. Generates 3-15 characters, 100-5000 unique usernames for 30 different platformLinuxsquad Panel random unique username generator. Generates 3-15 characters, 100-5000 unique usernames for 30 different platforms, 2.25 million nick estimates
 
 ## Özellikler
 - 30 platform desteği (TikTok, Instagram, Discord, GitHub vb.)
