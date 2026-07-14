@@ -1,16 +1,18 @@
-# LINUXSQUAD Username Generator v1.2
+# LINUXSQUAD v1.2
 
  Random unique username generator for panel. Generates 3-15 characters, 100-5000 unique usernames for 30 different platformLinuxsquad Panel random unique username generator. Generates 3-15 characters, 100-5000 unique usernames for 30 different platforms, 2.25 million nick estimates
 
-## Özellikler
-- 30 platform desteği (TikTok, Instagram, Discord, GitHub vb.)
-- 3-15 karakter arası username uzunluğu
-- 100-5000 adet unique (benzersiz) username üretimi
-- Gerçek zamanlı progress bar (spam yok, tek satırda)
-- Çıktıyı .txt dosyasına kaydetme
-- Renkli terminal arayüzü
+## Features
+- Support for 30 platforms (TikTok, Instagram, Discord, GitHub, etc.)
+- Username length from 3-15 characters
+- 100-5000 unique user production
+- Real-time progress bar (no spam, in one line)
+- Saving the output to the .txt file
+- Colorful terminal interface
+- 2.25million nick predictions
 
-## Kurulum
+## Installation
+
 
 ```bash
 pkg update && pkg upgrade -y
