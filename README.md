@@ -13,13 +13,16 @@
 
 ## Installation
 
+`pkg update && pkg upgrade -y`
 
-```bash
-pkg update && pkg upgrade -y
-pkg install git -y
-git clone https://github.com/linuxsquad77/Domain-Predictions.git
-cd Domain-Predictions
-chmod +x linuxsquad_username_generator.sh
-bash linuxsquad_username_generator.sh
+`pkg install git -y`
+
+`git clone https://github.com/linuxsquad77/Domain-Predictions.git`
+
+`cd Domain-Predictions`
+
+`chmod +x linuxsquad_username_generator.sh`
+
+`bash linuxsquad_username_generator.sh`
 
 <img width="1224" height="1153" alt="18504" src="https://github.com/user-attachments/assets/1f052ad4-8395-49c0-92df-acdb270a84f8" />
