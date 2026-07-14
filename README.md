@@ -10,6 +10,8 @@
 - Saving the output to the .txt file
 - Colorful terminal interface
 - 2.25million nick predictions
+<img width="1224" height="1153" alt="18504" src="https://github.com/user-attachments/assets/1f052ad4-8395-49c0-92df-acdb270a84f8" />
+
 
 ## Installation
 
